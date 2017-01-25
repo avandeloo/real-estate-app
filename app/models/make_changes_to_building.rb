@@ -1,0 +1,2 @@
+class MakeChangesToBuilding < ApplicationRecord
+end
